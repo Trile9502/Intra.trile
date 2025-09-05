@@ -1,4 +1,4 @@
-  """
+  """.
   This function sorts a list of numbers in ascending order using the bubble sort algorithm.
 
   Args:
